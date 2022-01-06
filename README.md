@@ -1,0 +1,2 @@
+# [Morse.java](https://github.com/EricXuan02/Morse/blob/main/Morse.java) - Morse code translator
+Morse is an updated version of [Moe's Code](https://devpost.com/software/moe-s-code), both of which are Java programs that read inputs of Morse Code or English through the terminal and translate. Coded, recorded, and uploaded to a repository in one hour with [Kevin Feng](https://github.com/kevinfengcs88) for [HackRU Fall 2020](https://hackru-f20.devpost.com/).
